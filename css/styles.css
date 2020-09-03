@@ -1,0 +1,169 @@
+body{
+  font-family: Montserrat;
+  background-color:#FF8E6E;
+}
+
+nav{
+  font-size: 20px;
+  padding-right: 0;
+}
+
+.tulisan1{
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.5rem;
+  line-height: 1.5;
+  margin-bottom: 50px;
+  color: #fff;
+}
+
+.container-fluid{
+  padding: 3% 15% 0 15%;
+}
+
+.cen1{
+  margin: 10% 0 15% 0;
+}
+
+.cen2{
+  width: 60%;
+  transform: rotate(25deg);
+  margin: 50px 0 0 50px;
+  position: absolute;
+}
+
+button{
+  margin-bottom: 15px;
+  margin-right: 15px;
+  font-family: Montserrat-light;
+}
+
+.brandd{
+  font-size: 30px;
+  font-family: Montserrat-light;
+  font-weight: bold;
+}
+
+.fitur{
+  padding: 7% 15%;
+  background-color: #fff;
+  position: relative;
+  z-index: 1;
+}
+
+.kedua{
+  padding: 5%;
+  text-align: center;
+
+}
+
+p{
+  color: grey;
+}
+
+.ikonkedua{
+  font-size: 50px;
+  color: pink;
+}
+
+.ikonkedua:hover{
+  color: #e94560;
+}
+
+.carousel-item{
+  padding: 7% 15%;
+}
+
+
+h2{
+  text-align: center;
+  font-family: Montserrat;
+  font-size: 2.5rem;
+  color: #fff;
+  margin-bottom: 30px;
+  margin-top: 50px;
+}
+
+.hiya{
+  text-align: center;
+  font-size: 1rem;
+}
+
+.iniimage{
+  width: 100px;
+  height: 100px;
+  border-radius: 50px;
+  margin-right: 20px;
+}
+
+#press{
+  background-color: #FF8E6E;
+  text-align: center;
+  padding: 20px;
+}
+
+.inipress{
+  width: 15%;
+  margin: 0 20px;
+}
+
+.judulprice{
+  color: black;
+  font-size: 20px;
+}
+
+.warnanya{
+  color: black;
+}
+
+.tengah{
+  text-align:center;
+  margin-bottom: 50px;
+}
+
+.textfree1{
+  color: black;
+}
+
+.padkartu{
+  text-align: center;
+  margin-top: 30px;
+}
+
+#pricing{
+  padding: 80px;
+  background-color: #fbdcc4;
+}
+
+#cta{
+  background-color: #fff;
+  padding: 7% 15%;
+  text-align: center;
+}
+
+.tulisanbawah{
+  margin-bottom: 50px;
+}
+
+#footer{
+  background-color: grey;
+  padding: 3% 15% 2% 15%;
+  text-align: center;
+  color: #fff;
+}
+
+@media (max-width: 1028px){
+  .cen2{
+    position: static;
+    transform: rotate(0);
+    text-align: center;
+  }
+}
+
+.ikonbawah{
+  margin-right: 7px;
+  margin-top: 7px;
+}
+
+.tulisanikonbawah{
+  color: #fff;
+}
